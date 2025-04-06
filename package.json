@@ -82,6 +82,7 @@
     "vite-plugin-dts": "^3.8.1",
     "vitest": "^1.4.0"
   },
+  "packageManager": "pnpm@8.5.1",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
     "cookie": "^0.6.0",
